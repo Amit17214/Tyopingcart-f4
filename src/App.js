@@ -1,5 +1,6 @@
 import React from 'react'
-import TypingInput from './Components/TypingInput'
+import TypingInput from './Components/TypingInput';
+import "./App.css";
 
 const App = () => {
   return (
